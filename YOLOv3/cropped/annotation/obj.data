@@ -1,0 +1,5 @@
+classes= 71
+train  =YOLOv3/cropped/train/train.txt
+valid  =YOLOv3/cropped/test/test.txt
+names = YOLOv3/cropped/annotation/obj.names
+backup = YOLOv3/cropped/backup
