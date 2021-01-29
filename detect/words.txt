@@ -1,0 +1,1519 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 128, time_steps = 1, train = 0 
+
+ seen 64, trained: 2380 K-images (37 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.700043_0.802558_0.042261_0.021332.jpg: Predicted in 13.416000 milli-seconds.
+f: 76%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.680712_0.747732_0.120299_0.022426.jpg: Predicted in 13.380000 milli-seconds.
+i: 93%
+r: 42%
+a: 84%
+e: 34%
+r: 71%
+i: 47%
+e: 83%
+s: 89%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.504215_0.451878_0.040884_0.014842.jpg: Predicted in 13.315000 milli-seconds.
+o: 74%
+n: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.588563_0.614587_0.07906_0.02565.jpg: Predicted in 13.375000 milli-seconds.
+N: 42%
+e: 59%
+p: 100%
+a: 87%
+l: 89%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.667958_0.775329_0.067644_0.017724.jpg: Predicted in 13.364000 milli-seconds.
+w: 98%
+e: 92%
+r: 98%
+e: 84%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.826681_0.942439_0.077942_0.026095.jpg: Predicted in 13.303000 milli-seconds.
+r: 58%
+a: 74%
+d: 92%
+i: 55%
+o: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.49548_0.36788_0.047637_0.021802.jpg: Predicted in 11.948000 milli-seconds.
+t: 43%
+h: 66%
+e: 74%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.785017_0.479586_0.088872_0.023612.jpg: Predicted in 11.896000 milli-seconds.
+b: 77%
+u: 95%
+t: 56%
+t: 35%
+o: 88%
+n: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.823958_0.806022_0.153409_0.0319.jpg: Predicted in 11.952000 milli-seconds.
+i: 88%
+m: 47%
+p: 99%
+o: 95%
+r: 88%
+t: 83%
+a: 97%
+n: 71%
+t: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.829129_0.403886_0.135023_0.036437.jpg: Predicted in 11.893000 milli-seconds.
+s: 97%
+o: 97%
+l: 98%
+l: 79%
+e: 97%
+c: 75%
+t: 91%
+i: 92%
+n: 97%
+g: 44%
+q: 35%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.543344_0.478346_0.046067_0.020088.jpg: Predicted in 11.886000 milli-seconds.
+t: 38%
+h: 93%
+e: 84%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.423482_0.800872_0.043732_0.019375.jpg: Predicted in 11.937000 milli-seconds.
+a: 84%
+r: 98%
+e: 64%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.59474_0.367456_0.115501_0.024656.jpg: Predicted in 11.891000 milli-seconds.
+i: 90%
+n: 87%
+t: 52%
+e: 89%
+r: 94%
+n: 91%
+e: 86%
+t: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.623222_0.477732_0.06794_0.023039.jpg: Predicted in 11.876000 milli-seconds.
+c: 54%
+e: 30%
+l: 49%
+i: 51%
+c: 99%
+k: 54%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.536383_0.401202_0.104337_0.029535.jpg: Predicted in 11.866000 milli-seconds.
+p: 96%
+o: 96%
+p: 91%
+u: 87%
+l: 99%
+a: 47%
+r: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.732172_0.39624_0.035496_0.020571.jpg: Predicted in 11.882000 milli-seconds.
+o: 98%
+f: 73%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.567425_0.450929_0.048909_0.019626.jpg: Predicted in 11.871000 milli-seconds.
+h: 84%
+e: 81%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.832009_0.42512_0.078982_0.023943.jpg: Predicted in 11.077000 milli-seconds.
+D: 32%
+a: 92%
+t: 97%
+a: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.698445_0.293894_0.155186_0.034014.jpg: Predicted in 8.735000 milli-seconds.
+s: 75%
+e: 88%
+c: 96%
+o: 84%
+n: 92%
+d: 77%
+a: 97%
+r: 65%
+y: 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.648019_0.404538_0.076468_0.028151.jpg: Predicted in 8.714000 milli-seconds.
+w: 99%
+a: 93%
+y: 97%
+s: 62%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.77013_0.538894_0.11231_0.031789.jpg: Predicted in 8.702000 milli-seconds.
+a: 94%
+g: 94%
+e: 93%
+c: 88%
+s: 36%
+l: 95%
+e: 77%
+o: 32%
+s: 68%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.886711_0.618613_0.104263_0.025363.jpg: Predicted in 8.703000 milli-seconds.
+B: 63%
+u: 50%
+r: 54%
+e: 82%
+a: 74%
+u: 61%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.581093_0.282965_0.040474_0.021056.jpg: Predicted in 8.706000 milli-seconds.
+o: 53%
+f: 85%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.616215_0.423718_0.046056_0.019556.jpg: Predicted in 8.720000 milli-seconds.
+h: 86%
+e: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.554268_0.74468_0.078898_0.025847.jpg: Predicted in 8.712000 milli-seconds.
+D: 39%
+u: 87%
+b: 93%
+l: 69%
+i: 85%
+c: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.306423_0.771435_0.137559_0.028243.jpg: Predicted in 8.574000 milli-seconds.
+i: 84%
+m: 88%
+p: 98%
+o: 41%
+r: 96%
+t: 77%
+a: 98%
+n: 98%
+t: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.72123_0.424825_0.108112_0.023547.jpg: Predicted in 8.726000 milli-seconds.
+r: 37%
+i: 88%
+n: 96%
+t: 94%
+c: 80%
+e: 33%
+r: 33%
+n: 78%
+e: 98%
+t: 77%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.589918_0.800769_0.144225_0.021069.jpg: Predicted in 8.643000 milli-seconds.
+s: 93%
+t: 84%
+o: 98%
+r: 93%
+e: 80%
+h: 85%
+o: 95%
+u: 63%
+s: 69%
+e: 71%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.573677_0.774599_0.061571_0.018239.jpg: Predicted in 8.627000 milli-seconds.
+t: 77%
+h: 66%
+a: 100%
+t: 51%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.603721_0.252973_0.041118_0.022824.jpg: Predicted in 8.204000 milli-seconds.
+o: 91%
+f: 81%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.791405_0.775518_0.144265_0.021706.jpg: Predicted in 7.794000 milli-seconds.
+c: 83%
+o: 87%
+n: 94%
+d: 82%
+c: 99%
+t: 84%
+e: 92%
+d: 40%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.666946_0.448366_0.116295_0.023387.jpg: Predicted in 7.810000 milli-seconds.
+i: 97%
+n: 97%
+t: 71%
+e: 99%
+r: 79%
+n: 48%
+e: 96%
+t: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.336189_0.803278_0.068502_0.03462.jpg: Predicted in 7.748000 milli-seconds.
+T: 81%
+h: 99%
+e: 91%
+y: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.407687_0.530741_0.05659_0.020522.jpg: Predicted in 7.790000 milli-seconds.
+a: 94%
+n: 94%
+d: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.45711_0.420458_0.029499_0.024062.jpg: Predicted in 7.802000 milli-seconds.
+i: 95%
+s: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.707963_0.614139_0.102272_0.020354.jpg: Predicted in 7.746000 milli-seconds.
+c: 35%
+C: 33%
+e: 79%
+n: 92%
+s: 60%
+u: 100%
+s: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.626174_0.560539_0.054465_0.019059.jpg: Predicted in 7.809000 milli-seconds.
+a: 99%
+l: 96%
+s: 54%
+o: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.353877_0.716904_0.100006_0.024097.jpg: Predicted in 7.701000 milli-seconds.
+i: 61%
+b: 95%
+r: 74%
+a: 92%
+r: 89%
+r: 81%
+i: 35%
+e: 86%
+s: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.254407_0.823166_0.162737_0.025645.jpg: Predicted in 7.782000 milli-seconds.
+i: 98%
+n: 86%
+f: 80%
+o: 95%
+r: 99%
+m: 96%
+a: 97%
+t: 78%
+i: 40%
+o: 75%
+e: 50%
+n: 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.254445_0.852481_0.167806_0.028443.jpg: Predicted in 7.796000 milli-seconds.
+i: 84%
+n: 97%
+f: 96%
+r: 85%
+m: 84%
+a: 40%
+h: 84%
+o: 81%
+n: 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.856169_0.457233_0.049328_0.016506.jpg: Predicted in 7.690000 milli-seconds.
+a: 77%
+a: 80%
+a: 48%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.625408_0.584522_0.056027_0.020633.jpg: Predicted in 7.764000 milli-seconds.
+a: 86%
+n: 97%
+d: 85%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.892798_0.180932_0.112841_0.030797.jpg: Predicted in 7.777000 milli-seconds.
+s: 57%
+o: 86%
+l: 89%
+l: 42%
+e: 95%
+c: 98%
+e: 91%
+d: 67%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.485745_0.588733_0.166736_0.028986.jpg: Predicted in 7.793000 milli-seconds.
+g: 92%
+q: 45%
+o: 84%
+v: 98%
+e: 97%
+n: 85%
+m: 88%
+e: 99%
+n: 90%
+t: 77%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.471614_0.476183_0.033825_0.021577.jpg: Predicted in 7.546000 milli-seconds.
+a: 73%
+t: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.483296_0.283899_0.109014_0.021548.jpg: Predicted in 7.296000 milli-seconds.
+s: 61%
+S: 37%
+o: 78%
+u: 92%
+r: 84%
+c: 81%
+e: 82%
+s: 56%
+s: 75%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.243387_0.450597_0.107101_0.033444.jpg: Predicted in 7.305000 milli-seconds.
+r: 81%
+e: 93%
+a: 95%
+d: 98%
+i: 77%
+l: 60%
+y: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.843286_0.291781_0.076473_0.025046.jpg: Predicted in 7.299000 milli-seconds.
+a: 66%
+t: 81%
+a: 80%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.454031_0.61302_0.12747_0.025361.jpg: Predicted in 7.320000 milli-seconds.
+e: 70%
+a: 97%
+m: 79%
+p: 100%
+l: 94%
+e: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.223924_0.798832_0.097046_0.021352.jpg: Predicted in 7.292000 milli-seconds.
+e: 91%
+a: 87%
+r: 95%
+l: 54%
+i: 95%
+e: 87%
+r: 76%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.457559_0.557098_0.064268_0.019517.jpg: Predicted in 7.296000 milli-seconds.
+d: 96%
+a: 96%
+t: 48%
+a: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.292682_0.744339_0.098592_0.019613.jpg: Predicted in 7.297000 milli-seconds.
+e: 88%
+a: 82%
+r: 99%
+c: 92%
+h: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.355136_0.168685_0.064584_0.024935.jpg: Predicted in 7.273000 milli-seconds.
+d: 75%
+a: 99%
+t: 57%
+a: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.671504_0.825584_0.059165_0.022571.jpg: Predicted in 7.281000 milli-seconds.
+f: 77%
+r: 57%
+i: 47%
+o: 99%
+m: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.232065_0.716365_0.082977_0.026119.jpg: Predicted in 7.279000 milli-seconds.
+P: 55%
+D: 54%
+u: 97%
+b: 97%
+l: 87%
+i: 77%
+c: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.532493_0.426839_0.070728_0.035746.jpg: Predicted in 7.262000 milli-seconds.
+u: 74%
+s: 86%
+i: 83%
+n: 95%
+g: 99%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.215108_0.936661_0.07742_0.025926.jpg: Predicted in 7.305000 milli-seconds.
+l: 47%
+o: 98%
+c: 97%
+a: 98%
+l: 89%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.570383_0.719625_0.111065_0.022086.jpg: Predicted in 7.338000 milli-seconds.
+a: 62%
+n: 93%
+o: 98%
+t: 75%
+h: 97%
+e: 91%
+r: 66%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.746542_0.238552_0.119004_0.040721.jpg: Predicted in 7.325000 milli-seconds.
+g: 35%
+a: 92%
+i: 94%
+n: 93%
+i: 95%
+n: 96%
+g: 81%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.815326_0.561169_0.135305_0.023564.jpg: Predicted in 7.289000 milli-seconds.
+c: 43%
+n: 41%
+o: 98%
+l: 91%
+l: 62%
+l: 88%
+e: 91%
+c: 89%
+t: 78%
+e: 84%
+d: 34%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.802866_0.614373_0.028685_0.019358.jpg: Predicted in 7.324000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.875708_0.753296_0.075917_0.02253.jpg: Predicted in 7.274000 milli-seconds.
+o: 92%
+p: 99%
+r: 40%
+k: 33%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.255195_0.910672_0.174956_0.023498.jpg: Predicted in 7.332000 milli-seconds.
+): 45%
+o: 72%
+a: 34%
+m: 82%
+m: 99%
+e: 95%
+r: 96%
+c: 33%
+i: 92%
+a: 94%
+l: 77%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.696512_0.558984_0.035962_0.023768.jpg: Predicted in 7.277000 milli-seconds.
+h: 46%
+b: 54%
+e: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.214339_0.581544_0.069044_0.022005.jpg: Predicted in 7.290000 milli-seconds.
+f: 72%
+r: 85%
+o: 72%
+m: 89%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.456216_0.773241_0.121322_0.02112.jpg: Predicted in 7.296000 milli-seconds.
+r: 76%
+e: 53%
+s: 96%
+e: 97%
+a: 95%
+r: 99%
+e: 82%
+c: 53%
+h: 69%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.387931_0.09225_0.140564_0.031863.jpg: Predicted in 7.269000 milli-seconds.
+s: 74%
+e: 97%
+c: 89%
+o: 81%
+n: 98%
+d: 98%
+a: 99%
+r: 99%
+y: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.335476_0.475049_0.187255_0.023606.jpg: Predicted in 7.418000 milli-seconds.
+d: 86%
+o: 83%
+w: 92%
+n: 96%
+l: 85%
+o: 96%
+a: 96%
+d: 96%
+e: 79%
+d: 83%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.240092_0.613745_0.132248_0.030046.jpg: Predicted in 7.268000 milli-seconds.
+a: 94%
+g: 99%
+e: 96%
+n: 86%
+c: 68%
+i: 91%
+e: 98%
+s: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.760074_0.827698_0.085606_0.021024.jpg: Predicted in 7.424000 milli-seconds.
+w: 99%
+h: 97%
+h: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.891163_0.209265_0.045161_0.022565.jpg: Predicted in 7.273000 milli-seconds.
+h: 42%
+e: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.198109_0.771151_0.035952_0.022513.jpg: Predicted in 7.272000 milli-seconds.
+o: 93%
+f: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.861607_0.096416_0.077748_0.024288.jpg: Predicted in 7.264000 milli-seconds.
+a: 65%
+b: 74%
+d: 71%
+o: 99%
+u: 96%
+t: 70%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.432533_0.36859_0.033796_0.017877.jpg: Predicted in 7.287000 milli-seconds.
+o: 96%
+n: 68%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.386921_0.420257_0.074298_0.024186.jpg: Predicted in 7.295000 milli-seconds.
+d: 45%
+a: 94%
+t: 96%
+a: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.704097_0.947449_0.129199_0.036379.jpg: Predicted in 7.269000 milli-seconds.
+m: 99%
+a: 99%
+g: 100%
+i: 86%
+n: 94%
+e: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.351167_0.607425_0.043997_0.024612.jpg: Predicted in 7.369000 milli-seconds.
+f: 95%
+o: 99%
+r: 76%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.788998_0.727441_0.069397_0.032509.jpg: Predicted in 7.334000 milli-seconds.
+g: 98%
+o: 94%
+o: 55%
+d: 59%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.20234_0.473526_0.040525_0.020072.jpg: Predicted in 7.252000 milli-seconds.
+b: 93%
+e: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.697522_0.478163_0.031624_0.022756.jpg: Predicted in 7.270000 milli-seconds.
+o: 88%
+f: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.879747_0.724793_0.079574_0.016272.jpg: Predicted in 7.291000 milli-seconds.
+o: 36%
+u: 97%
+r: 67%
+e: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.387306_0.742477_0.038778_0.023309.jpg: Predicted in 7.262000 milli-seconds.
+f: 85%
+o: 98%
+r: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.457018_0.85488_0.035522_0.020503.jpg: Predicted in 7.284000 milli-seconds.
+b: 94%
+e: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.578498_0.535106_0.239142_0.031135.jpg: Predicted in 7.315000 milli-seconds.
+r: 63%
+n: 62%
+e: 95%
+m: 79%
+g: 96%
+q: 72%
+o: 96%
+v: 85%
+e: 94%
+r: 45%
+n: 71%
+m: 69%
+e: 57%
+n: 96%
+t: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.255872_0.425863_0.145759_0.035149.jpg: Predicted in 7.278000 milli-seconds.
+s: 87%
+e: 65%
+c: 88%
+o: 97%
+n: 99%
+d: 82%
+a: 96%
+r: 86%
+y: 71%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.524516_0.826999_0.159903_0.025276.jpg: Predicted in 7.274000 milli-seconds.
+d: 85%
+o: 83%
+c: 67%
+u: 44%
+m: 74%
+e: 96%
+n: 98%
+t: 59%
+s: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.573602_0.22565_0.070741_0.024701.jpg: Predicted in 7.234000 milli-seconds.
+a: 94%
+i: 92%
+m: 59%
+s: 84%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.391338_0.448269_0.132602_0.025023.jpg: Predicted in 7.350000 milli-seconds.
+a: 81%
+v: 83%
+a: 99%
+i: 40%
+l: 96%
+a: 75%
+b: 86%
+l: 95%
+e: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.266615_0.527644_0.17755_0.024789.jpg: Predicted in 7.334000 milli-seconds.
+o: 98%
+v: 90%
+e: 73%
+r: 98%
+n: 89%
+m: 98%
+e: 98%
+n: 91%
+t: 74%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.411114_0.199303_0.062561_0.024292.jpg: Predicted in 7.328000 milli-seconds.
+w: 91%
+h: 93%
+o: 65%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.196076_0.742655_0.040427_0.021399.jpg: Predicted in 7.261000 milli-seconds.
+t: 88%
+o: 81%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.474213_0.226074_0.076524_0.0223.jpg: Predicted in 7.324000 milli-seconds.
+d: 95%
+a: 96%
+t: 95%
+a: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.817622_0.205397_0.068037_0.025015.jpg: Predicted in 7.708000 milli-seconds.
+t: 95%
+h: 87%
+a: 73%
+n: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.458275_0.74518_0.074952_0.022922.jpg: Predicted in 7.411000 milli-seconds.
+d: 69%
+a: 57%
+t: 39%
+a: 58%
+.: 49%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.448633_0.910358_0.173073_0.024514.jpg: Predicted in 7.291000 milli-seconds.
+I: 83%
+n: 95%
+f: 69%
+o: 98%
+r: 95%
+m: 98%
+a: 96%
+t: 70%
+i: 50%
+o: 54%
+n: 70%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.329311_0.232679_0.144013_0.036384.jpg: Predicted in 7.334000 milli-seconds.
+s: 89%
+S: 40%
+e: 97%
+c: 92%
+o: 98%
+n: 96%
+d: 94%
+a: 90%
+r: 85%
+y: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.781618_0.45252_0.06421_0.019837.jpg: Predicted in 7.336000 milli-seconds.
+a: 93%
+n: 74%
+d: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.199975_0.363103_0.069103_0.025191.jpg: Predicted in 7.269000 milli-seconds.
+a: 96%
+t: 58%
+a: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.397716_0.827606_0.067949_0.023794.jpg: Predicted in 7.298000 milli-seconds.
+a: 63%
+n: 97%
+d: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.218435_0.392205_0.056455_0.021522.jpg: Predicted in 7.297000 milli-seconds.
+o: 62%
+n: 93%
+e: 85%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.352972_0.393679_0.044685_0.021386.jpg: Predicted in 7.261000 milli-seconds.
+t: 54%
+h: 88%
+e: 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.228447_0.690068_0.096678_0.024442.jpg: Predicted in 7.292000 milli-seconds.
+p: 56%
+u: 93%
+b: 93%
+l: 90%
+i: 70%
+c: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.540555_0.561739_0.047849_0.018725.jpg: Predicted in 7.312000 milli-seconds.
+c: 34%
+a: 93%
+h: 46%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.46175_0.718061_0.055184_0.018928.jpg: Predicted in 7.303000 milli-seconds.
+a: 94%
+r: 83%
+e: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.61019_0.912185_0.097734_0.023375.jpg: Predicted in 7.285000 milli-seconds.
+s: 88%
+S: 43%
+o: 94%
+u: 90%
+r: 89%
+c: 55%
+e: 97%
+s: 98%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.390953_0.857156_0.052133_0.018818.jpg: Predicted in 7.263000 milli-seconds.
+c: 80%
+a: 60%
+n: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.368006_0.690968_0.116984_0.023539.jpg: Predicted in 7.253000 milli-seconds.
+l: 47%
+i: 82%
+b: 53%
+r: 99%
+a: 94%
+r: 71%
+i: 53%
+e: 62%
+s: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.235423_0.252468_0.122152_0.023514.jpg: Predicted in 7.250000 milli-seconds.
+b: 90%
+r: 77%
+o: 99%
+a: 83%
+d: 93%
+e: 84%
+r: 63%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.327619_0.110748_0.036055_0.025259.jpg: Predicted in 7.238000 milli-seconds.
+o: 65%
+f: 82%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.413144_0.124121_0.105977_0.040049.jpg: Predicted in 7.351000 milli-seconds.
+g: 88%
+e: 67%
+t: 58%
+t: 55%
+i: 63%
+n: 67%
+g: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.34764_0.280313_0.1118_0.023008.jpg: Predicted in 7.280000 milli-seconds.
+c: 55%
+o: 76%
+m: 99%
+m: 52%
+o: 98%
+n: 80%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.457368_0.169195_0.08557_0.023536.jpg: Predicted in 7.366000 milli-seconds.
+r: 95%
+e: 95%
+f: 89%
+e: 98%
+r: 84%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.290049_0.390307_0.033635_0.025515.jpg: Predicted in 7.272000 milli-seconds.
+o: 90%
+f: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.320691_0.363328_0.131151_0.022955.jpg: Predicted in 7.344000 milli-seconds.
+a: 85%
+v: 90%
+a: 97%
+i: 79%
+l: 88%
+a: 97%
+b: 99%
+l: 95%
+e: 96%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.347864_0.638408_0.046237_0.022201.jpg: Predicted in 7.263000 milli-seconds.
+e: 35%
+t: 86%
+c: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.51655_0.085556_0.073234_0.026019.jpg: Predicted in 7.334000 milli-seconds.
+d: 77%
+a: 95%
+t: 42%
+a: 81%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.376572_0.944042_0.181624_0.031133.jpg: Predicted in 7.265000 milli-seconds.
+n: 95%
+e: 85%
+v: 65%
+a: 52%
+s: 58%
+p: 97%
+a: 93%
+p: 99%
+e: 95%
+,: 30%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.897816_0.425974_0.026013_0.022633.jpg: Predicted in 7.321000 milli-seconds.
+i: 30%
+s: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.228389_0.113142_0.121186_0.023111.jpg: Predicted in 7.326000 milli-seconds.
+m: 88%
+e: 92%
+t: 75%
+h: 86%
+a: 54%
+d: 34%
+s: 85%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.721581_0.172875_0.093911_0.024225.jpg: Predicted in 7.304000 milli-seconds.
+w: 99%
+h: 98%
+i: 96%
+c: 97%
+h: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.553626_0.855072_0.126658_0.024497.jpg: Predicted in 7.314000 milli-seconds.
+e: 90%
+r: 36%
+x: 37%
+t: 60%
+r: 91%
+a: 92%
+e: 91%
+c: 99%
+e: 95%
+d: 88%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.75409_0.092166_0.107409_0.032341.jpg: Predicted in 7.257000 milli-seconds.
+S: 30%
+x: 61%
+l: 52%
+a: 85%
+i: 93%
+n: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.221672_0.280527_0.102305_0.023389.jpg: Predicted in 7.323000 milli-seconds.
+m: 99%
+a: 97%
+t: 60%
+t: 30%
+e: 95%
+r: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.592811_0.199674_0.128427_0.02179.jpg: Predicted in 7.328000 milli-seconds.
+s: 61%
+o: 99%
+m: 87%
+e: 97%
+o: 98%
+n: 94%
+e: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.3298_0.564564_0.131574_0.036553.jpg: Predicted in 7.355000 milli-seconds.
+S: 59%
+s: 35%
+e: 94%
+c: 61%
+e: 39%
+n: 98%
+d: 98%
+a: 87%
+r: 83%
+y: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.576376_0.124072_0.157016_0.036027.jpg: Predicted in 7.287000 milli-seconds.
+s: 70%
+e: 95%
+c: 89%
+o: 96%
+n: 99%
+d: 78%
+a: 99%
+r: 97%
+y: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.541107_0.168676_0.035226_0.019849.jpg: Predicted in 7.310000 milli-seconds.
+t: 86%
+o: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.428342_0.394541_0.066108_0.020113.jpg: Predicted in 7.271000 milli-seconds.
+m: 99%
+o: 55%
+e: 48%
+s: 99%
+t: 85%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.235581_0.172983_0.139371_0.035381.jpg: Predicted in 7.287000 milli-seconds.
+S: 59%
+e: 63%
+c: 97%
+o: 93%
+a: 46%
+n: 77%
+d: 94%
+a: 90%
+r: 90%
+y: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.20147_0.081611_0.073954_0.024452.jpg: Predicted in 7.362000 milli-seconds.
+w: 45%
+h: 84%
+a: 97%
+t: 71%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.656789_0.227512_0.039577_0.022586.jpg: Predicted in 7.281000 milli-seconds.
+a: 96%
+t: 84%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.442573_0.25763_0.244922_0.033583.jpg: Predicted in 7.342000 milli-seconds.
+u: 79%
+n: 69%
+d: 80%
+e: 99%
+r: 70%
+s: 32%
+t: 81%
+a: 79%
+n: 69%
+d: 100%
+i: 88%
+n: 97%
+g: 54%
+q: 35%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.376955_0.311177_0.103441_0.02074.jpg: Predicted in 7.335000 milli-seconds.
+f: 96%
+o: 84%
+l: 99%
+l: 51%
+o: 80%
+w: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.71769_0.117901_0.081116_0.021099.jpg: Predicted in 7.326000 milli-seconds.
+d: 71%
+a: 91%
+t: 82%
+a: 59%
+.: 84%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.837169_0.238118_0.023146_0.017604.jpg: Predicted in 7.297000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.202478_0.225121_0.075922_0.02005.jpg: Predicted in 7.413000 milli-seconds.
+u: 84%
+v: 53%
+c: 97%
+e: 98%
+r: 91%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.787495_0.748572_0.076647_0.020413.jpg: Predicted in 7.287000 milli-seconds.
+h: 74%
+a: 83%
+v: 92%
+r: 79%
+e: 92%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.610008_0.171172_0.069789_0.023867.jpg: Predicted in 7.250000 milli-seconds.
+d: 55%
+a: 99%
+t: 71%
+a: 94%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.661835_0.257264_0.038497_0.01871.jpg: Predicted in 7.331000 milli-seconds.
+e: 31%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.802595_0.174969_0.030026_0.024449.jpg: Predicted in 7.252000 milli-seconds.
+i: 83%
+s: 78%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.54974_0.943742_0.130575_0.030161.jpg: Predicted in 7.366000 milli-seconds.
+o: 46%
+u: 89%
+r: 93%
+a: 85%
+,: 79%
+r: 37%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.726803_0.200351_0.093313_0.02409.jpg: Predicted in 7.356000 milli-seconds.
+a: 79%
+t: 70%
+h: 75%
+e: 91%
+r: 86%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.628527_0.085689_0.107801_0.025856.jpg: Predicted in 7.358000 milli-seconds.
+s: 74%
+o: 98%
+u: 88%
+r: 90%
+c: 92%
+e: 97%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.473973_0.199998_0.031721_0.024132.jpg: Predicted in 7.266000 milli-seconds.
+i: 85%
+s: 55%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.290427_0.198453_0.128403_0.02015.jpg: Predicted in 7.276000 milli-seconds.
+s: 53%
+S: 33%
+o: 87%
+m: 83%
+e: 98%
+o: 94%
+n: 85%
+e: 72%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.69221_0.728631_0.082363_0.032465.jpg: Predicted in 7.251000 milli-seconds.
+g: 83%
+r: 65%
+e: 80%
+p: 36%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.693123_0.588038_0.041303_0.020137.jpg: Predicted in 7.239000 milli-seconds.
+r: 81%
+o: 94%
+a: 67%
+n: 87%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.275489_0.081168_0.034766_0.021297.jpg: Predicted in 7.294000 milli-seconds.
+i: 83%
+s: 70%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.196713_0.308301_0.050582_0.017818.jpg: Predicted in 7.302000 milli-seconds.
+a: 90%
+r: 98%
+e: 90%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.244999_0.633358_0.105608_0.022862.jpg: Predicted in 7.284000 milli-seconds.
+v: 32%
+N: 40%
+p: 73%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.226004_0.553556_0.046756_0.02256.jpg: Predicted in 7.319000 milli-seconds.
+a: 77%
+r: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.137421_0.357328_0.028443_0.025267.jpg: Predicted in 7.363000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.477985_0.803703_0.021708_0.014635.jpg: Predicted in 7.253000 milli-seconds.
+a: 79%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.27274_0.311104_0.04023_0.017984.jpg: Predicted in 7.284000 milli-seconds.
+a: 64%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.327576_0.584251_0.080863_0.016948.jpg: Predicted in 7.259000 milli-seconds.
+s: 52%
+o: 91%
+m: 91%
+e: 85%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.127304_0.905805_0.041489_0.023377.jpg: Predicted in 7.273000 milli-seconds.
+i: 35%
+v: 58%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.125986_0.689841_0.033829_0.021551.jpg: Predicted in 7.261000 milli-seconds.
+i: 83%
+i: 44%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.790724_0.592832_0.235133_0.028988.jpg: Predicted in 7.258000 milli-seconds.
+r: 54%
+n: 41%
+o: 99%
+n: 95%
+-: 50%
+g: 93%
+o: 95%
+v: 85%
+e: 90%
+r: 83%
+n: 75%
+m: 49%
+e: 95%
+n: 39%
+t: 50%
+d: 41%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.180836_0.201982_0.038299_0.033021.jpg: Predicted in 7.283000 milli-seconds.
+b: 99%
+y: 95%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.133198_0.526256_0.032184_0.022307.jpg: Predicted in 7.242000 milli-seconds.
+i: 51%
+i: 94%
+): 39%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.302472_0.716593_0.018312_0.019989.jpg: Predicted in 7.269000 milli-seconds.
+i: 53%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.119146_0.080875_0.024676_0.022107.jpg: Predicted in 7.291000 milli-seconds.
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.817886_0.268204_0.102707_0.02961.jpg: Predicted in 7.267000 milli-seconds.
+s: 58%
+u: 31%
+b: 89%
+j: 50%
+i: 74%
+e: 98%
+c: 95%
+t: 61%
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+detect/cropped/0.121994_0.138167_0.021409_0.016808.jpg: Predicted in 7.247000 milli-seconds.
+): 32%
+Enter Image Path: 
